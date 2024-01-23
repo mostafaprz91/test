@@ -1,0 +1,8 @@
+{
+    "password": "M0stafa1991",
+    "server": "shop.mastervp.site",
+    "server_port": 8443,
+    "tag": "sshproxy",
+    "type": "ssh",
+    "user": "teeth"
+}
